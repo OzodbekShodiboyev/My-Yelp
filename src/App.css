@@ -1,0 +1,27 @@
+.person_user{
+  display: flex;
+  justify-content: space-between;
+}
+.btn-submit{
+  width: auto;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.Upp{
+  text-transform: capitalize;
+}
+body{
+  background: rgb(26,184,235);
+  background: linear-gradient(90deg, rgba(26,184,235,1) 0%, rgba(34,26,177,1) 75%);
+}
+button:hover{
+  cursor: pointer;
+  background-color: #002966;
+}
+.sign-out:hover{
+  cursor: pointer;
+  background-color: #002966;
+}
